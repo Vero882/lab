@@ -2,5 +2,5 @@
 python = "latest"
 pipx = "latest"
 curl = "latest"
-# azure-cli = "latest"
+azure-cli = "latest"
 pulumi = "latest"
