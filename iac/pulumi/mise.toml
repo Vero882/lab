@@ -1,5 +1,5 @@
 [tools]
-python = "3.10.11"
+python = "latest"
 pipx = "latest"
 curl = "latest"
 # azure-cli = "latest"
