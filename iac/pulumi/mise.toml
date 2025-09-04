@@ -1,0 +1,4 @@
+[tools]
+azure = "latest"
+pulumi = "latest"
+python = "latest"
