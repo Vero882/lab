@@ -1,4 +1,4 @@
 [tools]
-azure = "latest"
+azure-cli = "latest"
 pulumi = "latest"
 python = "3.10.11"
