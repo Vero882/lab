@@ -1,5 +1,0 @@
-#!/bin/bash
-/usr/local/bin/mise trust /workspaces/pulumi/mise.toml && /usr/local/bin/mise install
-
-# Install Azure CLI
-curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash

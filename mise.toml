@@ -1,6 +1,7 @@
 [tools]
 python = "latest"
 pipx = "latest"
-curl = "latest"
+# curl = "latest"
 # azure-cli = "latest"
 pulumi = "latest"
+terraform = "latest"
