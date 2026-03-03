@@ -15,3 +15,6 @@ override.tf.json
 
 ## Terraform vars files
 *.tfvars
+
+## Terraform directories
+**/.terraform/*
