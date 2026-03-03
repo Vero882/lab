@@ -1,0 +1,17 @@
+# Pulumi/Python
+*.pyc
+venv/
+__pycache__/
+
+## Terraform state files
+*.tfstate
+*.tfstate.*
+
+## Terraform override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+## Terraform vars files
+*.tfvars
