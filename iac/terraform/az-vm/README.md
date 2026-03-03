@@ -2,6 +2,12 @@
 
 This Terraform code provisions a small Linux VM environment in Azure.
 
+## Prerequisites
+
+You must have an SSH key generated and in the correct directory (`~/.ssh/id_ed25519.pub`). You must also be logged into Azure CLI (`az login`).
+
+*This is a sandbox/testing deployment for demonstration purposes only, and proper best practices should be followed for production-grade deployments.*
+
 ## What this project does
 
 - **`main.tf`**  
