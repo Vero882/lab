@@ -4,7 +4,7 @@ variable "region" {
   default     = "westus"
 }
 
-variable "vm-size" {
+variable "vm_size" {
   type        = string
   description = "Default size for Azure VM"
   default     = "Standard_B1ls"
