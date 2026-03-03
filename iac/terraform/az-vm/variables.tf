@@ -1,11 +1,11 @@
 variable "region" {
-  type = string
+  type        = string
   description = "Default location of Azure resources"
-  default = "westus"
+  default     = "westus"
 }
 
 variable "vm-size" {
-  type = string
+  type        = string
   description = "Default size for Azure VM"
-  default = "Standard_B1ls"
+  default     = "Standard_B1ls"
 }
